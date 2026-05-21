@@ -112,6 +112,3 @@ No setup beyond `pip install -r requirements.txt`. The whole app is one file —
 
 ---
 
-## License
-
-MIT
